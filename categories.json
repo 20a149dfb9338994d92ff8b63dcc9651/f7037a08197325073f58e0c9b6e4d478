@@ -2,40 +2,60 @@
   {
     "title": "Fart",
     "description": "Hilarious fart sounds to prank your friends",
-    "wallpapersCount": "24 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "21 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Scary",
     "description": "Spooky and terrifying sounds for jump scares",
-    "wallpapersCount": "18 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "17 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": true,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Hair Clipper",
     "description": "Real trimmer and clipper sounds for haircut pranks",
-    "wallpapersCount": "12 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "13 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Air Horn",
     "description": "Loud and annoying air horn sounds",
-    "wallpapersCount": "10 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "14 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Mosquito",
     "description": "Annoying mosquito buzzing sounds",
-    "wallpapersCount": "8 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "7 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
@@ -43,79 +63,119 @@
     "title": "Burp",
     "description": "Different types of funny burp sounds",
     "wallpapersCount": "15 Sounds",
-    "imageUrls": ["", "", ""],
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Laughing",
     "description": "Funny and contagious laughing sounds",
-    "wallpapersCount": "20 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "9 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Dog",
     "description": "Various dog barking and whining sounds",
-    "wallpapersCount": "14 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "11 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Baby Cry",
     "description": "Realistic baby crying and fussing sounds",
-    "wallpapersCount": "10 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "8 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": true,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Gun",
     "description": "Powerful gunshot and reloading sounds",
-    "wallpapersCount": "25 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "6 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": true,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Police Siren",
     "description": "Emergency police and ambulance sirens",
-    "wallpapersCount": "12 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "15 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Snoring",
     "description": "Funny and heavy snoring sounds",
-    "wallpapersCount": "8 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "9 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Sneeze",
     "description": "Various loud and funny sneeze sounds",
-    "wallpapersCount": "10 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "6 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Breaking",
     "description": "Glass breaking and wood snapping sounds",
-    "wallpapersCount": "15 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "6 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": true,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Men Cough",
     "description": "Realistic men coughing sounds",
-    "wallpapersCount": "12 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "11 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
@@ -123,47 +183,71 @@
     "title": "Toilet Flush",
     "description": "Loud toilet flushing sounds",
     "wallpapersCount": "6 Sounds",
-    "imageUrls": ["", "", ""],
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Scissors",
     "description": "Snapping and cutting scissor sounds",
-    "wallpapersCount": "8 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "5 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Hair Dryer",
     "description": "Realistic hair dryer blowing sounds",
-    "wallpapersCount": "5 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "8 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Notification",
     "description": "Funny and classic notification sounds",
-    "wallpapersCount": "30 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "8 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#FCE6DF"
   },
   {
     "title": "Door Bell",
     "description": "Classic and digital door bell sounds",
-    "wallpapersCount": "10 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "14 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": false,
     "backgroundColor": "#D9E8EB"
   },
   {
     "title": "Car",
     "description": "Engine revving and car horn sounds",
-    "wallpapersCount": "20 Sounds",
-    "imageUrls": ["", "", ""],
+    "wallpapersCount": "11 Sounds",
+    "imageUrls": [
+      "",
+      "",
+      ""
+    ],
     "isPro": true,
     "backgroundColor": "#FCE6DF"
   }
